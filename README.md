@@ -59,4 +59,4 @@ Contributions are welcome! Please fork the repository, make your changes, and op
 
 🔒 License
 This project is licensed under the MIT License. See LICENSE for details.
-Feel free to customize this further with your project URL, screenshots, or additional details. Would you like help generating badges or adding installation instructions?
+Feel free to customize this further with your project URL, screenshots, or additional details. 
